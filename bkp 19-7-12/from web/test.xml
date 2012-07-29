@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><!--treebolic (c)Thu May 31 08:43:17 IDT 2012-->
+<!DOCTYPE treebolic SYSTEM "Treebolic.dtd">
+<treebolic toolbar="true" focus-on-hover="false" statusbar="false">
+        <tree>
+                <nodes>
+                        <node id="root" backcolor="ff0000" forecolor="ffffff">
+                                <label>Autocad</label>
+                                <node id="X5323e0fbfb638ac8">
+                                        <label>Concepts</label>
+                                        <node id="X783813cf7165b151">
+                                                <label>Database</label>
+                                                <node id="X48d4bd106c034dba">
+                                                        <label>Model</label>
+                                                        <node id="Xd25a25dde6b15e56">
+                                                                <label>Entities</label>
+                                                                <node id="X9e581b524fad78de">
+                                                                        <label>Simple</label>
+                                                                        <node id="X7292f127f6538972" backcolor="66ffff">
+                                                                                <label>Line</label>
+                                                                        </node>
+                                                                        <node id="Xffd20d1a0c138d67" backcolor="66ffff">
+                                                                                <label>Arc</label>
+                                                                        </node>
+                                                                        <node id="X23c79998673cde29" backcolor="66ffff">
+                                                                                <label>Ellipse</label>
+                                                                        </node>
+                                                                        <node id="X3734f589c39ace9d" backcolor="66ffff">
+                                                                                <label>Point</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="X92e2f8cbf2a4eb99">
+                                                                        <label>Different</label>
+                                                                        <node id="X45d2be51112fe221">
+                                                                                <label>Image</label>
+                                                                        </node>
+                                                                        <node id="Xcc74c6727092341b">
+                                                                                <label>Ray</label>
+                                                                        </node>
+                                                                        <node id="Xd226adb15d57141a">
+                                                                                <label>Xline</label>
+                                                                        </node>
+                                                                        <node id="Xdd98923e25bb0e14">
+                                                                                <label>Trace</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="X9e089288abc58923">
+                                                                        <label>Polyline-ish</label>
+                                                                        <node id="X849f55e837c009e0" backcolor="66ffff">
+                                                                                <label>LWPolyline</label>
+                                                                        </node>
+                                                                        <node id="X9bf0a14e64392032">
+                                                                                <label>Mline</label>
+                                                                        </node>
+                                                                        <node id="Xfac2201be110a38">
+                                                                                <label>Polyline</label>
+                                                                        </node>
+                                                                        <node id="Xc6913205cc444fc7">
+                                                                                <label>Seqend</label>
+                                                                        </node>
+                                                                        <node id="X1513ebe50c20adf8">
+                                                                                <label>Spline</label>
+                                                                        </node>
+                                                                        <node id="Xa337eba658cffbdf">
+                                                                                <label>Vertex</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="Xd187135d021e083f">
+                                                                        <label>Compound</label>
+                                                                        <node id="Xf310296df85d7c87" backcolor="66ffff">
+                                                                                <label>Insert</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="Xcbe57d3d2ced9024">
+                                                                        <label>Dimension</label>
+                                                                        <node id="X369cdb9fa72b2f3c" backcolor="66ffff">
+                                                                                <label>Dimension</label>
+                                                                        </node>
+                                                                        <node id="Xd3266e0ce7f59d26">
+                                                                                <label>Leader</label>
+                                                                        </node>
+                                                                        <node id="Xd113cd7bdd3e7d9d">
+                                                                                <label>Tolerance</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="X7f3fb36ed6fb0dde">
+                                                                        <label>Area designation</label>
+                                                                        <node id="X9ab55d12da6f215f" backcolor="66ffff">
+                                                                                <label>Hatch</label>
+                                                                        </node>
+                                                                        <node id="X7fa7239ce0fa67e2">
+                                                                                <label>Region</label>
+                                                                        </node>
+                                                                        <node id="X702a0a7f30849a2a" backcolor="66ffff">
+                                                                                <label>Solid</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="X3f5c94e2fbf758a0">
+                                                                        <label>Text</label>
+                                                                        <node id="Xfeade5a3368b8fdd">
+                                                                                <label>Attdef</label>
+                                                                        </node>
+                                                                        <node id="X834261edf7248f16">
+                                                                                <label>Attrib</label>
+                                                                        </node>
+                                                                        <node id="X706361a53fc4297">
+                                                                                <label>Mtext</label>
+                                                                        </node>
+                                                                        <node id="Xe108b856ee2e6630">
+                                                                                <label>Shape</label>
+                                                                        </node>
+                                                                        <node id="Xc2c0e3dd98eb8e4d" backcolor="66ffff">
+                                                                                <label>Text</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="X42559ab9f5765e">
+                                                                        <label>Externally dependant</label>
+                                                                        <node id="Xafda53877ad35840">
+                                                                                <label>Oleframe</label>
+                                                                        </node>
+                                                                        <node id="Xc3852d11147b4199">
+                                                                                <label>Ole2frame</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="X169601618187b5f">
+                                                                        <label>Viewport</label>
+                                                                        <node id="Xbf3d6dc86eca02f7" backcolor="66ffff">
+                                                                                <label>Viewport</label>
+                                                                        </node>
+                                                                </node>
+                                                                <node id="X48a4b5cf1e2c30e3">
+                                                                        <label>3Dentities</label>
+                                                                        <node id="X8c3675cb190361d7">
+                                                                                <label>3Dface</label>
+                                                                        </node>
+                                                                        <node id="X5c8628ff02d7559c">
+                                                                                <label>3Dsolid</label>
+                                                                        </node>
+                                                                        <node id="X6e22f9278cd4c9fb">
+                                                                                <label>Body</label>
+                                                                        </node>
+                                                                </node>
+                                                        </node>
+                                                        <node id="Xc35f0599e7832619">
+                                                                <label>Viewing</label>
+                                                                <node id="X688387b961378b43">
+                                                                        <label>Zoom</label>
+                                                                </node>
+                                                                <node id="X2dc3d357696a68d0">
+                                                                        <label>Pan</label>
+                                                                </node>
+                                                                <node id="X81a8e1e13044ae67">
+                                                                        <label>Extents</label>
+                                                                </node>
+                                                                <node id="X84aab25581ebeda8">
+                                                                        <label>Plan</label>
+                                                                </node>
+                                                                <node id="Xd387bf7345cf42e8">
+                                                                        <label>3D</label>
+                                                                </node>
+                                                                <node id="Xa0fe364314d64d3f">
+                                                                        <label>Paperspace</label>
+                                                                </node>
+                                                                <node id="X8880de6fe7c16f2a">
+                                                                        <label>Viewports</label>
+                                                                </node>
+                                                        </node>
+                                                </node>
+                                                <node id="X1ff922ce5f92d14b">
+                                                        <label>Environment</label>
+                                                        <node id="Xeca8697498676b79">
+                                                                <label>Tables</label>
+                                                                <node id="X55a079c711492e33" backcolor="ffff00">
+                                                                        <label>Layer</label>
+                                                                </node>
+                                                                <node id="X17b984f3bf2fb911" backcolor="ffff00">
+                                                                        <label>Block_Record</label>
+                                                                </node>
+                                                                <node id="X18578d454c011691">
+                                                                        <label>Appid</label>
+                                                                </node>
+                                                                <node id="X9451dd56dc5abdd4" backcolor="ffff00">
+                                                                        <label>Dimstyle</label>
+                                                                </node>
+                                                                <node id="X58c0f6d7290d188f" backcolor="ffff00">
+                                                                        <label>Ltype</label>
+                                                                </node>
+                                                                <node id="Xeac6675e1f570000" backcolor="ffff00">
+                                                                        <label>Style</label>
+                                                                </node>
+                                                                <node id="X613ffa27b92aed">
+                                                                        <label>UCS</label>
+                                                                </node>
+                                                                <node id="Xca076d09501b019e">
+                                                                        <label>View</label>
+                                                                </node>
+                                                                <node id="X50557d3244593573" backcolor="ffff00">
+                                                                        <label>Vport</label>
+                                                                </node>
+                                                        </node>
+                                                </node>
+                                                <node id="X61af7dfd0ef45e28">
+                                                        <label>Commands</label>
+                                                        <node id="Xea997c0dbad131fd">
+                                                                <label>NEW</label>
+                                                                <node id="Xfc3a1b15f38dcc82">
+                                                                        <label>Prototype dwg</label>
+                                                                </node>
+                                                        </node>
+                                                        <node id="Xb7600c34694dc5aa">
+                                                                <label>OPEN</label>
+                                                        </node>
+                                                        <node id="X8b3ed58a1d9b5d9e">
+                                                                <label>SAVEAS</label>
+                                                        </node>
+                                                        <node id="X4edb640e7f2ec211">
+                                                                <label>QSAVE</label>
+                                                        </node>
+                                                        <node id="X39b00535f6456550">
+                                                                <label>QUIT</label>
+                                                        </node>
+                                                        <node id="X6ac28e40e60add65">
+                                                                <label>END</label>
+                                                        </node>
+                                                        <node id="Xd1f4fa2a83971c24">
+                                                                <label>XREF</label>
+                                                        </node>
+                                                        <node id="X1479c8109a76a64b">
+                                                                <label>HELP</label>
+                                                        </node>
+                                                </node>
+                                                <node id="X1e2d09cbf371099c">
+                                                        <label>System variables</label>
+                                                </node>
+                                                <node id="Xfd4f9b68a2231b49">
+                                                        <label>World coordinates</label>
+                                                        <node id="X962866bd8c4ed7d7">
+                                                                <label>Relative coordinates</label>
+                                                                <node id="X1f6c931584c97e8a">
+                                                                        <label>User coordinate systems</label>
+                                                                </node>
+                                                        </node>
+                                                        <node id="X29b9469a696bb7b4">
+                                                                <label>Units</label>
+                                                        </node>
+                                                </node>
+                                                <node id="Xe4c5856cfc9289ab">
+                                                        <label>Precustom</label>
+                                                        <node id="X86d574367d6e7ef1">
+                                                                <label>Fonts</label>
+                                                        </node>
+                                                        <node id="Xfd1e2b82142fdf3d">
+                                                                <label>Hatch patterns</label>
+                                                        </node>
+                                                        <node id="Xf17eafacba069a02">
+                                                                <label>Shapes</label>
+                                                        </node>
+                                                        <node id="Xb0275df0ed2b965d">
+                                                                <label>Linetypes</label>
+                                                        </node>
+                                                </node>
+                                        </node>
+                                        <node id="Xddfffda193915ace">
+                                                <label>Interface</label>
+                                        </node>
+                                        <node id="Xd538ff47f4f2fec9">
+                                                <label>Blueprints</label>
+                                        </node>
+                                        <node id="X5c40fef0cba17e2d">
+                                                <label>Drafting</label>
+                                        </node>
+                                </node>
+                                <node id="X325173c354299a75">
+                                        <label>Commands</label>
+                                        <node id="X9b6cf1b1de450e5">
+                                                <label>Command prompt</label>
+                                                <node id="X3798ca0c96ac0fe8">
+                                                        <label>Keyboard</label>
+                                                        <node id="Xdc162889ec090d75">
+                                                                <label>Shortcuts</label>
+                                                        </node>
+                                                </node>
+                                                <node id="Xf81b5fd583d9faf2">
+                                                        <label>Menus</label>
+                                                        <node id="X75921c5f82e1b64e">
+                                                                <label>Pulldown</label>
+                                                                <node id="Xe37ab229f77c331b">
+                                                                        <label>Cursor</label>
+                                                                </node>
+                                                        </node>
+                                                        <node id="X2fe8e9040c5a5d03">
+                                                                <label>Button</label>
+                                                        </node>
+                                                </node>
+                                        </node>
+                                </node>
+                                <node id="Xc9cd57aa3f6b4682">
+                                        <label>System variables</label>
+                                </node>
+                        </node>
+                </nodes>
+                <edges>
+                </edges>
+        </tree>
+</treebolic>

@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<document>
+	<index>
+		<main>
+			<english>E.M.Tech</english>
+			<hebrew>אי.מ.טק</hebrew>
+		</main>
+		<sub>
+			<english>Embedded solutions</english>
+			<hebrew>עברית</hebrew>
+		</sub>
+		<longimage>
+			<english>images/longlogo.gif</english>
+			<hebrew>images/longlogohebrew.gif</hebrew>
+		</longimage>
+		<softwaretitle>
+			<english>Software</english>
+			<hebrew>תוכנה</hebrew>
+		</softwaretitle>
+		<software>
+			<english>Some words on software
+		
+			First item showing a run over several lines hopefully
+			Next item shorter
+		
+			</english>
+			<hebrew>עברית</hebrew>
+		</software>
+		<hardwaretitle>
+			<english>Hardware</english>
+			<hebrew>חומרה</hebrew>
+		</hardwaretitle>
+		<hardware>
+			<english>Some words on software</english>
+			<hebrew>עברית</hebrew>
+		</hardware>
+	</index>
+	<about>
+		<aboutcontent>
+			<english>
+				Here we write all kinds of good stuff about our company. It will go on for several lines and we can format it
+				and all kinds of stuff like that. It is likely that it will be put in a div field and then there will be more control. Need a catchy title too.
+			</english>
+			<hebrew>
+			תיאור העסק
+-Embedded  Services 
+-מומחיות בפיתוח תוכנה למערכות זמן אמת. 
+-יעוץ אפיון ופיתוח אפליקציות. 
+-פיתוח מעגלים מודפסים.
+מידע כללי
+elim.projects@gmail.com. 
+
+בס"ד 
+
+*פיתוח תוכנה ומוצרים לאבי טיפוס. 
+
+* פיתוח תוכנה למערכות זמן אמת לכל סוגי מיקרו-בקרים ומעבדים: 
+:Psos,VxWorks,Linux,MicroController No-OS 
+
+* פיתוח ממשקי תוכנה למערכות זמן אמת: 
+RS232,USB,Etherenet,Wifi,Bluetooth 
+
+* פיתוח תוכנה ואפליקציות. 
+GUI,VB,WPF,WinForms,MFC,Open Source.WIN32 
+
+* תכנון ופיתוח מעגלים מודפסים. 
+
+* פיתוח לAltera וFPGA ASIC ב VHDL Verilog . 
+
+* פיתוח פרויקטי מפתח ואיתור פתרונות קיימים המשלבים תוכנה חומרה ומכניקה. 
+
+כרגע אני מפתח במספר פרויקטים וזמין לפרויקטים קצרי טווח.
+תחומי התמחות
+פיתוח תוכנה ודריברים למערכות זמן אמת. 
+"הרמת" מעגלים אלקטרוניים הכולל פיתוח BSP ותכנות צמוד חומרה. 
+פיתוח פתרונות תקשורת SNMP לכל מערכת הפעלה!!! 
+פיתוח פתרונות (M2M - (Machine to Machine. 
+פיתוח פתרונות מיוחדים בתחום הצ'יפים (Snmp,zigbee,WiFi,Bluteooth,Tcp\ip). 
+פיתוח תוכנה ואפליקציות לPC. 
+התמחות במתודולוגיות פיתוח תוכנה לפי תקן DO178B ברמות A-E לפי דרישת לקוח. 
+הגדרה והטמעת מערכות ניהול תצורה. 
+תעודות ופרסים
+תואר ראשון במדעי המחשב. 
+תואר ראשון בכלכלה וניהול. 
+תעודות מקורסי תוכנה מקצועיים והעשרה בתחום תוכנה תקשורת ואלקטרוניקה.
+תנאי עבודה (תשלום / מיסוי / אספקה)
+למה כדאי לכם לעבוד איתי? 
+ניסיון של 15 שנים. 
+100% אחריות על השירות והפיתוחים. 
+שמירת והעברת הידע לחברתכם. 
+רגישות לעלויות הלקוחות וללוחות הזמנים. 
+אשמח להעמיד לשירותכם את הידע והניסיון שצברתי ולאפשר לכם להגיע לפתרון הטוב והמשתלם עבורכם. 
+מהארגונים שכבר נהנו משירותי הפיתוח שלי -אינטל,רד- בינת,מודולוס,לינקס,אורביט ועוד. 
+
+משרדנו פתוח בין השעות 9:00-19:00 
+אלי -037267727
+תחומים בהם רשום המומחה
+תכנות ופיתוח תוכנה - .NET, C#
+ניסיון באפיון ופיתוח אפליקציות .#NET C. 
+תכנות ופיתוח תוכנה - C, C++, Win32, Unix, Linux
+ניסיון באפיון ופיתוח אפליקציות C\C++.פיתוח אפליקציות בMFC.פיתוח GUI.פיתוח WIN32. 
+ניסיון באפיון ופיתוח Real Time Embedded Software and Drivers על מגוון פלטפורמות ב C\C++. 
+
+תכנות ופיתוח תוכנה - VBA, Office, Excel Programming
+ניסיון באפיון ופיתוח אפליקציות וסקריפטים לפי דרישה.
+תכנות ופיתוח תוכנה - Visual Basic
+ניסיון באפיון ופיתוח אפליקציות.פיתוח ממשקים למערכות משובצות מחשב.פיתוח GUI. 
+תכנות ופיתוח תוכנה - Windows Presentation Foundation (WPF)
+ניסיון באפיון ופיתוח אפליקציות בWPF.פיתוח ממשקים למערכות משובצות מחשב.פיתוח GUI. 
+
+תכנות ופיתוח תוכנה - כללי, שונות
+ניסיון ביכולת לספק פיתוח ואפליקציות בתחומים שונים לפי דרישה.
+טכנולוגיה - UNIX, Linux
+ניסיון באפיון ופיתוח אפלקיציות בC\C++ .פיתוח דריברים.
+טכנולוגיה - VoIP
+ניסיון באפיון ופיתוח אפליקציות בVOIP לסביבות Windows,RealTime Embedded.Linux 
+פיתוח אפליקציות VOIP RT בVOIP POWER-PC בשילוב עם TDM ופרוטוכול SIP. 
+היכרות מעמיקה בפרוטוכול SIP והיכרות טובה עם טכנולוגיות חומרה ותוכנה VOIP. 
+טכנולוגיה - טכנולוגיה אלחוטית, סלולארית
+ניסיון באפיון ופתוח אפליקציות לרכיבי מודם סלולרי GSM,HSDPA .פיתוח עם רכיבי RFID.פיתוח עם רכיבי Blutooth,Wifi.פיתוח למשדר/מקלט RF. 
+טכנולוגיה - Real-Time / Embedded / DSP
+ניסיון באפיון ופיתוח קושחות ודרייברים לרכיבי חומרה ואפליקציות זמן אמת : 
+שפות: ,C++,C,Assembler 
+פיתוח פרוטוקולים : 
+Snmp,Tcp\Udp\IP,Rs232,Rs485,HDLC,E1,T1,VOIP-SIP,Uart.I2C 
+
+פיתוח למיקרו קונטרולרים עם ובלי מערכת הפעלה: 
+TI-CodeComposer,Motorolla Metrowerks,WindRiver Workbench 
+TI DSP2812,Motorolla HSC12,Intel 80186,8051,Intel ,Pentium,Futjitsu,Mitsubishi,PowerPC.ARM 
+VxWorks 5.5,6.6,Windows. ThreadX 
+
+פיתוח דרייברים לרכיבים אלקטרונים וBSP- Board Support package : 
+
+E1\T1 Framer,E1\T1 Matrix,Codecs,Ambassador H110,Pwm,A\D,D\a,Mac,I2C,SPI,EEProm,Flash,Ethernet 
+
+ליצירת קשר elim.projects@gmail.com.
+			</hebrew>
+		</aboutcontent>
+	</about>
+</document>
