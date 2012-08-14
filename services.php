@@ -1,27 +1,14 @@
-﻿
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-
+﻿<!DOCTYPE html>
 <html>
 <?php include("htmlhead.php"); ?>
+
+
 <body>
+The content of the document......
+<video width="320" height="240" controls="controls">
+  <source src="videos/Prometheus Proto Alien .mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+</body>
 
-<br />
-
-<div id="container" class="centered">
-<?php include("menu.php"); ?>
-    <iframe id="servicescontent" src="ServicesGeneralEnglish.html" width="100%" height="2500" scrolling="auto" frameborder="0">
-	</iframe>
-	<p id="about">--</p>
-</div>
-
-<script type="text/javascript"> // Places title upon load in paragraph with id "title"
-    lang = document.getElementById("languageButton").value;
-	document.getElementById("languageButton").value="עברית";	
-	
-	putlanguage(lang);
-	
-
-
-</script>
-
-</body></html>
+</html>
