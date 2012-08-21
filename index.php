@@ -20,30 +20,27 @@
   </div>
   <div id="disciplines">
    <div class="expert" id="software">
-		<p id="softwaretitle" class="experttitle">
-		--
-		</p>
+		<p id="softwaretitle" class="experttitle"></p>
 		<div class="expertcontent">
-		<p id="softwarecontent" class="expertcontent">
-		--
-		</p>
+			<iframe id="softwarecontent" class="expertcontent" src="SoftwareEnglish.html" width="100%" height="200" scrolling="no" frameborder="0">
+			</iframe>
 		</div>
    </div>
    <div class="expert" id="hardware">
-   		<p id="hardwaretitle" class="experttitle">
-		--
-		</p>
-		<p id="hardwarecontent" class="expertcontent">
-		--
-		</p>
+   		<p id="hardwaretitle" class="experttitle"></p>
+		<div class="expertcontent">
+			<iframe id="hardwarecontent" class="expertcontent" src="HardwareEnglish.html" width="100%" height="200" scrolling="no" frameborder="0">
+			</iframe>
+		</div>
    </div>
    <div class="expert" id="mechanical">
       	<p id="mechanicaltitle" class="experttitle">
 		--
 		</p>
-		<p id="mechanicalcontent" class="expertcontent">
-		--
-		</p>
+		<div class="expertcontent">
+			<iframe id="mechanicalcontent" class="expertcontent" src="MechanicalEnglish.html" width="100%" height="200" scrolling="no" frameborder="0">
+			</iframe>
+		</div>
    </div>
    <div class="expert" id="outsourcing">
          <p id="outsourcingtitle" class="experttitle">

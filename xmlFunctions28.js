@@ -40,7 +40,8 @@ function putlanguage(lang)
 	
 	putcontent(xmlDoc, "main", lang, "title", "index");
 	putcontent(xmlDoc, "softwaretitle", lang, "softwaretitle", "index");
-	putcontent(xmlDoc, "software", lang, "softwarecontent", "index");
+	puthtml(xmlDoc, "software", lang, "softwarecontent", "index");
+	//putcontent(xmlDoc, "software", lang, "softwarecontent", "index");
 	putcontent(xmlDoc, "hardwaretitle", lang, "hardwaretitle", "index");
 	
 	putimage(xmlDoc,"longimage",lang,"longimage","index");

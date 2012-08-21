@@ -18,13 +18,12 @@
 			<hebrew>תוכנה</hebrew>
 		</softwaretitle>
 		<software>
-			<english>Some words on software
-		
-			First item showing a run over several lines hopefully
-			Next item shorter
-		
+			<english>
+				SoftwareEnglish.html
 			</english>
-			<hebrew>עברית</hebrew>
+			<hebrew>
+				SoftwareHebrew.html
+			</hebrew>
 		</software>
 		<hardwaretitle>
 			<english>Hardware</english>

@@ -20,12 +20,6 @@
 	
 	putlanguage(lang);
 	
-//	xmlDoc=loadXMLDoc("content15.xml");
-//	x=xmlDoc.getElementsByTagName('index')[0];
-	
-//	putcontent(xmlDoc, "main", lang, "title", "index");
-//	putcontent(xmlDoc, "aboutcontent", lang, "about", "about");
-
 
 </script>
 

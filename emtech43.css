@@ -1,0 +1,184 @@
+﻿#title /* EM Tech - replace with logo... */
+{ 
+color:blue;
+font-size:24px;
+}
+
+body /*white background of html */
+{
+background-color:#FFFFFF;
+margin:0;
+text-align:center;
+}
+
+.centered /* any object of this class will float to center - need to modify to cause scroll bars to exist when necessary */
+{
+  position: fixed;
+  left: 50%;
+  margin-left: -452px;
+}
+
+h1
+{
+margin-bottom:0;
+}
+
+p
+{
+font-family:"Arial";
+font-size:20px;
+}
+
+#container /* this is the div that contains all */
+{ 
+width:904px;
+height:750px;
+}
+#header
+{
+background-color:#FFFFFF;
+height:10%;
+width:100%;
+box-shadow: 10px 10px 5px #888888;
+border-bottom-left-radius:2em;
+}
+#logo
+{
+background-color:#55D721;
+height:100%;
+width:30%;
+float:left;
+border-bottom-left-radius:2em;
+}
+#bylogo
+{
+height:100%;
+width:70%;
+float:left;
+}
+#languages
+{
+height:50%;
+width:100%;
+float:left;
+}
+#menu
+{
+background-color:#FFD700;
+height:50%;
+width:100%;
+float:left;
+}
+#headspace
+{
+height:5%;
+width:100%;
+float:left;
+}
+#headspacehebrew
+{
+height:5%;
+width:100%;
+float:left;
+}
+#intro
+{
+background:url(images/intro.jpg);
+height:35%;
+width:100%;
+margin:2;
+float:left;
+}
+#space
+{
+background-color:#FFFFFF;
+height:4%;
+width:100%;
+float:left;
+}
+
+#disciplines
+{
+height:35%;
+width:100%;
+float:left;
+}
+div.expertcontent
+{
+ position:absolute;
+ top:40px;
+ color:rgb(0,255,255);
+ font-weight:900;
+ 
+}
+div.expert
+{
+position:relative;
+background-color:#11FF33;
+ color:rgb(0,255,255);
+ font-weight:900;
+height:100%;
+width:23%;
+float:left;
+margin:1%;
+background-image:url('images/circuitry.jpg');
+border-bottom-left-radius:2em;
+border-bottom-right-radius:2em;
+border-top-left-radius:2em;
+border-top-right-radius:2em;
+box-shadow: 10px 10px 5px #888888;
+}
+p.experttitle
+{
+font-family:"Arial";
+font-size:25px;
+background-color:#b0c4de;
+}
+
+.expertcontent
+{
+font-family:"Arial";
+font-size:18px;
+ color:rgb(0,255,255);
+ font-weight:900;
+
+}
+
+p
+{
+font-family:"Arial";
+font-size:18px;
+ color:rgb(0,255,255);
+ font-weight:900;
+
+}
+
+#footspace
+{
+background-color:#FFFFFF;
+height:4%;
+width:100%;
+float:left;
+}
+
+
+#content
+{
+background-color:#EEEEEE;
+height:200px;
+width:400px;
+float:left;
+}
+#footer
+{
+background-color:#FFA500;clear:both;text-align:center;
+/*background-color:#002200;*/
+height:7%;
+width:100%;
+float:left;
+border-bottom-left-radius:30%;
+border-bottom-right-radius:30%;
+border-top-left-radius:30%;
+border-top-right-radius:30%;
+box-shadow: 10px 10px 5px #888888;
+}

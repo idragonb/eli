@@ -107,8 +107,9 @@ div.expertcontent
 {
  position:absolute;
  top:40px;
-
-
+ color:rgb(0,255,255);
+ font-weight:900;
+ 
 }
 div.expert
 {
