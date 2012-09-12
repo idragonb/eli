@@ -22,7 +22,7 @@
 				SoftwareEnglish.php
 			</english>
 			<hebrew>
-				SoftwareHebrew.html
+				SoftwareHebrew.php
 			</hebrew>
 		</software>
 		<hardwaretitle>
@@ -31,10 +31,10 @@
 		</hardwaretitle>
 		<hardware>
 			<english>
-				HardwareEnglish.html
+				HardwareEnglish.php
 			</english>
 			<hebrew>
-				HardwareHebrew.html
+				HardwareHebrew.php
 			</hebrew>
 		</hardware>
 		<mechanicaltitle>
@@ -43,30 +43,30 @@
 		</mechanicaltitle>
 		<mechanical>
 			<english>
-				MechanicalEnglish.html
+				MechanicalEnglish.php
 			</english>
 			<hebrew>
-				MechanicalHebrew.html
+				MechanicalHebrew.php
 			</hebrew>
 		</mechanical>
 	</index>
 	<about>
 		<aboutcontent>
 			<english>
-				AboutGeneralEnglish.html
+				AboutGeneralEnglish.php
 			</english>
 			<hebrew>
-				AboutGeneralHebrew.html
+				AboutGeneralHebrew.php
 			</hebrew>
 		</aboutcontent>
 	</about>
 	<services>
 		<servicescontent>
 			<english>
-				ServicesGeneralEnglish.html
+				ServicesGeneralEnglish.php
 			</english>
 			<hebrew>
-				ServicesGeneralHebrew.html
+				ServicesGeneralHebrew.php
 			</hebrew>
 		</servicescontent>
 	</services>

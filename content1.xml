@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <document>
 	<index>
 		<main>
@@ -18,56 +18,36 @@
 			<hebrew>תוכנה</hebrew>
 		</softwaretitle>
 		<software>
-			<english>
-				SoftwareEnglish.php
-			</english>
-			<hebrew>
-				SoftwareHebrew.html
-			</hebrew>
+			<english>content/SoftwareEnglish.php</english>
+			<hebrew>content/SoftwareHebrew.php</hebrew>
 		</software>
 		<hardwaretitle>
 			<english>Hardware</english>
 			<hebrew>חומרה</hebrew>
 		</hardwaretitle>
 		<hardware>
-			<english>
-				HardwareEnglish.html
-			</english>
-			<hebrew>
-				HardwareHebrew.html
-			</hebrew>
+			<english>content/HardwareEnglish.php</english>
+			<hebrew>content/HardwareHebrew.php</hebrew>
 		</hardware>
 		<mechanicaltitle>
 			<english>Mechanical</english>
 			<hebrew>מכני</hebrew>
 		</mechanicaltitle>
 		<mechanical>
-			<english>
-				MechanicalEnglish.html
-			</english>
-			<hebrew>
-				MechanicalHebrew.html
-			</hebrew>
+			<english>content/MechanicalEnglish.php</english>
+			<hebrew>content/MechanicalHebrew.php</hebrew>
 		</mechanical>
 	</index>
 	<about>
 		<aboutcontent>
-			<english>
-				AboutGeneralEnglish.html
-			</english>
-			<hebrew>
-				AboutGeneralHebrew.html
-			</hebrew>
+			<english>content/AboutGeneralEnglish.php</english>
+			<hebrew>content/AboutGeneralHebrew.php</hebrew>
 		</aboutcontent>
 	</about>
 	<services>
 		<servicescontent>
-			<english>
-				ServicesGeneralEnglish.html
-			</english>
-			<hebrew>
-				ServicesGeneralHebrew.html
-			</hebrew>
+			<english>content/ServicesGeneralEnglish.php</english>
+			<hebrew>content/ServicesGeneralHebrew.php</hebrew>
 		</servicescontent>
 	</services>
 </document>

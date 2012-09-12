@@ -1,0 +1,2 @@
+INDEX VERSION 1.122+D:\Work\2039 eli site\Work\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+151318479.index
